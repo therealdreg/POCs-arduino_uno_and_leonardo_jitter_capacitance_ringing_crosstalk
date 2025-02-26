@@ -1,5 +1,5 @@
-# arduino_uno_jitter_capacitance_ringing_crosstalk
-POCs arduino_uno_jitter_capacitance_ringing_crosstalk
+# POCs arduino_uno_and_leonardo_jitter_capacitance_ringing_crosstalk
+POCs arduino_uno_and_leonardo_jitter_capacitance_ringing_crosstalk
 
 ![board.jpg](board.jpg)  
 
